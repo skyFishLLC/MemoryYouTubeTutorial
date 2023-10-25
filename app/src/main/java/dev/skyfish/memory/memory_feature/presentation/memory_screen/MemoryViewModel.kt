@@ -5,7 +5,6 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dev.skyfish.memory.memory_feature.domain.util.generateCardsArray
-import dev.skyfish.memory.memory_feature.presentation.MemoryEvent
 import dev.skyfish.memory.memory_feature.presentation.util.NumericValues
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
